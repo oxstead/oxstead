@@ -3,13 +3,13 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Your Site Name</title>
-  <meta name="description" content="Short sentence about who you are and what you offer." />
+  <title>Oxstead Engineering</title>
+  <meta name="description" content="Where precision meets purpose in utility and industrial design." />
   <link rel="icon" href="favicon.ico" />
-  <meta property="og:title" content="Your Site Name" />
-  <meta property="og:description" content="Short sentence about who you are and what you offer." />
+  <meta property="og:title" content="Oxstead Engineering" />
+  <meta property="og:description" content="Where precision meets purpose in utility and industrial design." />
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://your-domain.com" />
+  <meta property="og:url" content="https://oxstead.com" />
   <style>
     :root {
       --bg: #0b0f14;
